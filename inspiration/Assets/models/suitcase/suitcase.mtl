@@ -1,0 +1,44 @@
+newmtl blinn3SG
+illum 4
+Kd 0.46 0.33 0.27
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.65 0.65 0.65
+newmtl blinn4SG
+illum 4
+Kd 0.14 0.05 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.13 0.13 0.13
+newmtl blinn5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump  -bm 0.12 -s_0.2_0.2_pu-leather-B.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks -s_0.2_0.2_pu-leather-S.jpg
+newmtl blinn6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.75 0.45 0.17
+newmtl blinn7SG
+illum 4
+Kd 0.10 0.05 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 0.65 0.21
+newmtl blinn8SG
+illum 4
+Kd 0.04 0.04 0.04
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.23 0.23
